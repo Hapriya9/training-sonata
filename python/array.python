@@ -1,0 +1,6 @@
+Fruits=("mango","apple","banana")
+print(fruits[1])
+print(fruits[-1])
+print(fruits.remove("apple))
+print(fruits)
+print(len(fruits))

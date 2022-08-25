@@ -1,0 +1,7 @@
+h=set((1,4,5,6,7,8,9,2,3,4,6,8))
+t=set(4,6,1,2,3,9,6)
+print(type(h))
+print(h)
+print(h.copy())
+print(h.update(h,t))
+print(h)
